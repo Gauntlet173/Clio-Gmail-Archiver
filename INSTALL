@@ -1,0 +1,8 @@
+This is a new process for me, so thanks for your patience.
+
+I think all that is required for installation is that you create a spreadsheet in google drive,
+have the right spreadsheets in that file, add the script to that file, and then create an hourly trigger to run the RunArchive
+function.
+
+I'll create an issue for getting this more detailed and including stuff about the various authorizations it's going to ask for
+the first time you run it.
